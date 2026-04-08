@@ -36,7 +36,15 @@ Internet → LoadBalancer → Service → Pod → Application
 ---
 
 ## 📸 Screenshots
-(Add images here later)
+
+### Pods
+![Pods](pods.png)
+
+### Services
+![Services](svc.png)
+
+### Application Output
+![App](app.png)
 
 ---
 
