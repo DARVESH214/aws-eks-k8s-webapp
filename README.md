@@ -35,9 +35,16 @@ Internet → LoadBalancer → Service → Pod → Application
 
 ---
 
-Screenshot (1500).png → pods.png
-Screenshot (1501).png → svc.png
-Screenshot (1502).png → app.png
+## 📸 Screenshots
+
+### Pods
+![Pods](Screenshot%20(1500).png)
+
+### Services
+![Services](Screenshot%20(1501).png)
+
+### Application Output
+![App](Screenshot%20(1502).png)
 
 ---
 
