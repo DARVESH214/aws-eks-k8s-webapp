@@ -37,14 +37,14 @@ Internet → LoadBalancer → Service → Pod → Application
 
 ## 📸 Screenshots
 
-### Pods
-![Pods](Screenshot%20(1500).png)
+### 🟢 Pods
+<img src="Screenshot%20(1500).png" width="700"/>
 
-### Services
-![Services](Screenshot%20(1501).png)
+### 🔵 Services
+<img src="Screenshot%20(1501).png" width="700"/>
 
-### Application Output
-![App](Screenshot%20(1502).png)
+### 🌐 Application Output
+<img src="Screenshot%20(1502).png" width="700"/>
 
 ---
 
